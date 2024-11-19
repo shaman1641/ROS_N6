@@ -1,0 +1,21 @@
+[ 50%] [32mBuilding CXX object CMakeFiles/robot_controller.dir/src/robot_controller.cpp.o[0m
+[100%] [32m[1mLinking CXX executable robot_controller[0m
+[100%] Built target robot_controller
+-- Install configuration: ""
+-- Installing: /home/shaman/ros2_ws/src/ROS_N6/ex05/install/my_robot_controller_deep_cam/lib/my_robot_controller_deep_cam/robot_controller
+-- Set runtime path of "/home/shaman/ros2_ws/src/ROS_N6/ex05/install/my_robot_controller_deep_cam/lib/my_robot_controller_deep_cam/robot_controller" to ""
+-- Up-to-date: /home/shaman/ros2_ws/src/ROS_N6/ex05/install/my_robot_controller_deep_cam/share/ament_index/resource_index/package_run_dependencies/my_robot_controller_deep_cam
+-- Up-to-date: /home/shaman/ros2_ws/src/ROS_N6/ex05/install/my_robot_controller_deep_cam/share/ament_index/resource_index/parent_prefix_path/my_robot_controller_deep_cam
+-- Up-to-date: /home/shaman/ros2_ws/src/ROS_N6/ex05/install/my_robot_controller_deep_cam/share/my_robot_controller_deep_cam/environment/ament_prefix_path.sh
+-- Up-to-date: /home/shaman/ros2_ws/src/ROS_N6/ex05/install/my_robot_controller_deep_cam/share/my_robot_controller_deep_cam/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/shaman/ros2_ws/src/ROS_N6/ex05/install/my_robot_controller_deep_cam/share/my_robot_controller_deep_cam/environment/path.sh
+-- Up-to-date: /home/shaman/ros2_ws/src/ROS_N6/ex05/install/my_robot_controller_deep_cam/share/my_robot_controller_deep_cam/environment/path.dsv
+-- Up-to-date: /home/shaman/ros2_ws/src/ROS_N6/ex05/install/my_robot_controller_deep_cam/share/my_robot_controller_deep_cam/local_setup.bash
+-- Up-to-date: /home/shaman/ros2_ws/src/ROS_N6/ex05/install/my_robot_controller_deep_cam/share/my_robot_controller_deep_cam/local_setup.sh
+-- Up-to-date: /home/shaman/ros2_ws/src/ROS_N6/ex05/install/my_robot_controller_deep_cam/share/my_robot_controller_deep_cam/local_setup.zsh
+-- Up-to-date: /home/shaman/ros2_ws/src/ROS_N6/ex05/install/my_robot_controller_deep_cam/share/my_robot_controller_deep_cam/local_setup.dsv
+-- Installing: /home/shaman/ros2_ws/src/ROS_N6/ex05/install/my_robot_controller_deep_cam/share/my_robot_controller_deep_cam/package.dsv
+-- Up-to-date: /home/shaman/ros2_ws/src/ROS_N6/ex05/install/my_robot_controller_deep_cam/share/ament_index/resource_index/packages/my_robot_controller_deep_cam
+-- Up-to-date: /home/shaman/ros2_ws/src/ROS_N6/ex05/install/my_robot_controller_deep_cam/share/my_robot_controller_deep_cam/cmake/my_robot_controller_deep_camConfig.cmake
+-- Up-to-date: /home/shaman/ros2_ws/src/ROS_N6/ex05/install/my_robot_controller_deep_cam/share/my_robot_controller_deep_cam/cmake/my_robot_controller_deep_camConfig-version.cmake
+-- Up-to-date: /home/shaman/ros2_ws/src/ROS_N6/ex05/install/my_robot_controller_deep_cam/share/my_robot_controller_deep_cam/package.xml

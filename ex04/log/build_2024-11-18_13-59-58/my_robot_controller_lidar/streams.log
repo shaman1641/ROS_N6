@@ -1,0 +1,25 @@
+[0.016s] Invoking command in '/home/shaman/ros2_ws/src/ROS_N6/ex04/build/my_robot_controller_lidar': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/shaman/ros2_ws/src/ROS_N6/ex04/build/my_robot_controller_lidar -- -j12 -l12
+[0.051s] [ 50%] [32mBuilding CXX object CMakeFiles/robot_controller.dir/src/robot_controller.cpp.o[0m
+[5.400s] [100%] [32m[1mLinking CXX executable robot_controller[0m
+[5.668s] [100%] Built target robot_controller
+[5.675s] Invoked command in '/home/shaman/ros2_ws/src/ROS_N6/ex04/build/my_robot_controller_lidar' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/shaman/ros2_ws/src/ROS_N6/ex04/build/my_robot_controller_lidar -- -j12 -l12
+[5.697s] Invoking command in '/home/shaman/ros2_ws/src/ROS_N6/ex04/build/my_robot_controller_lidar': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/shaman/ros2_ws/src/ROS_N6/ex04/build/my_robot_controller_lidar
+[5.704s] -- Install configuration: ""
+[5.704s] -- Installing: /home/shaman/ros2_ws/src/ROS_N6/ex04/install/my_robot_controller_lidar/lib/my_robot_controller_lidar/robot_controller
+[5.707s] -- Set runtime path of "/home/shaman/ros2_ws/src/ROS_N6/ex04/install/my_robot_controller_lidar/lib/my_robot_controller_lidar/robot_controller" to ""
+[5.707s] -- Up-to-date: /home/shaman/ros2_ws/src/ROS_N6/ex04/install/my_robot_controller_lidar/share/ament_index/resource_index/package_run_dependencies/my_robot_controller_lidar
+[5.707s] -- Up-to-date: /home/shaman/ros2_ws/src/ROS_N6/ex04/install/my_robot_controller_lidar/share/ament_index/resource_index/parent_prefix_path/my_robot_controller_lidar
+[5.707s] -- Up-to-date: /home/shaman/ros2_ws/src/ROS_N6/ex04/install/my_robot_controller_lidar/share/my_robot_controller_lidar/environment/ament_prefix_path.sh
+[5.707s] -- Up-to-date: /home/shaman/ros2_ws/src/ROS_N6/ex04/install/my_robot_controller_lidar/share/my_robot_controller_lidar/environment/ament_prefix_path.dsv
+[5.707s] -- Up-to-date: /home/shaman/ros2_ws/src/ROS_N6/ex04/install/my_robot_controller_lidar/share/my_robot_controller_lidar/environment/path.sh
+[5.707s] -- Up-to-date: /home/shaman/ros2_ws/src/ROS_N6/ex04/install/my_robot_controller_lidar/share/my_robot_controller_lidar/environment/path.dsv
+[5.707s] -- Up-to-date: /home/shaman/ros2_ws/src/ROS_N6/ex04/install/my_robot_controller_lidar/share/my_robot_controller_lidar/local_setup.bash
+[5.707s] -- Up-to-date: /home/shaman/ros2_ws/src/ROS_N6/ex04/install/my_robot_controller_lidar/share/my_robot_controller_lidar/local_setup.sh
+[5.707s] -- Up-to-date: /home/shaman/ros2_ws/src/ROS_N6/ex04/install/my_robot_controller_lidar/share/my_robot_controller_lidar/local_setup.zsh
+[5.707s] -- Up-to-date: /home/shaman/ros2_ws/src/ROS_N6/ex04/install/my_robot_controller_lidar/share/my_robot_controller_lidar/local_setup.dsv
+[5.707s] -- Installing: /home/shaman/ros2_ws/src/ROS_N6/ex04/install/my_robot_controller_lidar/share/my_robot_controller_lidar/package.dsv
+[5.707s] -- Up-to-date: /home/shaman/ros2_ws/src/ROS_N6/ex04/install/my_robot_controller_lidar/share/ament_index/resource_index/packages/my_robot_controller_lidar
+[5.707s] -- Up-to-date: /home/shaman/ros2_ws/src/ROS_N6/ex04/install/my_robot_controller_lidar/share/my_robot_controller_lidar/cmake/my_robot_controller_lidarConfig.cmake
+[5.707s] -- Up-to-date: /home/shaman/ros2_ws/src/ROS_N6/ex04/install/my_robot_controller_lidar/share/my_robot_controller_lidar/cmake/my_robot_controller_lidarConfig-version.cmake
+[5.707s] -- Up-to-date: /home/shaman/ros2_ws/src/ROS_N6/ex04/install/my_robot_controller_lidar/share/my_robot_controller_lidar/package.xml
+[5.708s] Invoked command in '/home/shaman/ros2_ws/src/ROS_N6/ex04/build/my_robot_controller_lidar' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/shaman/ros2_ws/src/ROS_N6/ex04/build/my_robot_controller_lidar

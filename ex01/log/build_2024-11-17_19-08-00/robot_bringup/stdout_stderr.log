@@ -1,0 +1,39 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/shaman/ros2_ws/src/ROS_N6/ex01/build/robot_bringup
+-- Install configuration: ""
+-- Installing: /home/shaman/ros2_ws/src/ROS_N6/ex01/install/robot_bringup/share/robot_bringup/launch
+-- Installing: /home/shaman/ros2_ws/src/ROS_N6/ex01/install/robot_bringup/share/robot_bringup/launch/diff_drive.launch.py
+-- Installing: /home/shaman/ros2_ws/src/ROS_N6/ex01/install/robot_bringup/share/robot_bringup/config
+-- Installing: /home/shaman/ros2_ws/src/ROS_N6/ex01/install/robot_bringup/share/robot_bringup/config/diff_drive.rviz
+-- Installing: /home/shaman/ros2_ws/src/ROS_N6/ex01/install/robot_bringup/share/robot_bringup/config/robot_bridge.yaml
+-- Installing: /home/shaman/ros2_ws/src/ROS_N6/ex01/install/robot_bringup/share/ament_index/resource_index/package_run_dependencies/robot_bringup
+-- Installing: /home/shaman/ros2_ws/src/ROS_N6/ex01/install/robot_bringup/share/ament_index/resource_index/parent_prefix_path/robot_bringup
+-- Installing: /home/shaman/ros2_ws/src/ROS_N6/ex01/install/robot_bringup/share/robot_bringup/environment/ament_prefix_path.sh
+-- Installing: /home/shaman/ros2_ws/src/ROS_N6/ex01/install/robot_bringup/share/robot_bringup/environment/ament_prefix_path.dsv
+-- Installing: /home/shaman/ros2_ws/src/ROS_N6/ex01/install/robot_bringup/share/robot_bringup/environment/path.sh
+-- Installing: /home/shaman/ros2_ws/src/ROS_N6/ex01/install/robot_bringup/share/robot_bringup/environment/path.dsv
+-- Installing: /home/shaman/ros2_ws/src/ROS_N6/ex01/install/robot_bringup/share/robot_bringup/local_setup.bash
+-- Installing: /home/shaman/ros2_ws/src/ROS_N6/ex01/install/robot_bringup/share/robot_bringup/local_setup.sh
+-- Installing: /home/shaman/ros2_ws/src/ROS_N6/ex01/install/robot_bringup/share/robot_bringup/local_setup.zsh
+-- Installing: /home/shaman/ros2_ws/src/ROS_N6/ex01/install/robot_bringup/share/robot_bringup/local_setup.dsv
+-- Installing: /home/shaman/ros2_ws/src/ROS_N6/ex01/install/robot_bringup/share/robot_bringup/package.dsv
+-- Installing: /home/shaman/ros2_ws/src/ROS_N6/ex01/install/robot_bringup/share/ament_index/resource_index/packages/robot_bringup
+-- Installing: /home/shaman/ros2_ws/src/ROS_N6/ex01/install/robot_bringup/share/robot_bringup/cmake/robot_bringupConfig.cmake
+-- Installing: /home/shaman/ros2_ws/src/ROS_N6/ex01/install/robot_bringup/share/robot_bringup/cmake/robot_bringupConfig-version.cmake
+-- Installing: /home/shaman/ros2_ws/src/ROS_N6/ex01/install/robot_bringup/share/robot_bringup/package.xml

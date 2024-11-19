@@ -1,0 +1,15 @@
+/home/shaman/ros2_ws/src/ROS_N6/ex04/install/robot_app/share/ament_index/resource_index/package_run_dependencies/robot_app
+/home/shaman/ros2_ws/src/ROS_N6/ex04/install/robot_app/share/ament_index/resource_index/parent_prefix_path/robot_app
+/home/shaman/ros2_ws/src/ROS_N6/ex04/install/robot_app/share/robot_app/environment/ament_prefix_path.sh
+/home/shaman/ros2_ws/src/ROS_N6/ex04/install/robot_app/share/robot_app/environment/ament_prefix_path.dsv
+/home/shaman/ros2_ws/src/ROS_N6/ex04/install/robot_app/share/robot_app/environment/path.sh
+/home/shaman/ros2_ws/src/ROS_N6/ex04/install/robot_app/share/robot_app/environment/path.dsv
+/home/shaman/ros2_ws/src/ROS_N6/ex04/install/robot_app/share/robot_app/local_setup.bash
+/home/shaman/ros2_ws/src/ROS_N6/ex04/install/robot_app/share/robot_app/local_setup.sh
+/home/shaman/ros2_ws/src/ROS_N6/ex04/install/robot_app/share/robot_app/local_setup.zsh
+/home/shaman/ros2_ws/src/ROS_N6/ex04/install/robot_app/share/robot_app/local_setup.dsv
+/home/shaman/ros2_ws/src/ROS_N6/ex04/install/robot_app/share/robot_app/package.dsv
+/home/shaman/ros2_ws/src/ROS_N6/ex04/install/robot_app/share/ament_index/resource_index/packages/robot_app
+/home/shaman/ros2_ws/src/ROS_N6/ex04/install/robot_app/share/robot_app/cmake/robot_appConfig.cmake
+/home/shaman/ros2_ws/src/ROS_N6/ex04/install/robot_app/share/robot_app/cmake/robot_appConfig-version.cmake
+/home/shaman/ros2_ws/src/ROS_N6/ex04/install/robot_app/share/robot_app/package.xml

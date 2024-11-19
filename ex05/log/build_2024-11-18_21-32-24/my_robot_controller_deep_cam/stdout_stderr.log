@@ -1,0 +1,13 @@
+[35m[1mConsolidate compiler generated dependencies of target robot_controller[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/robot_controller.dir/src/robot_controller.cpp.o[0m
+[01m[K/home/shaman/ros2_ws/src/ROS_N6/ex05/my_robot_controller_deep_cam/src/robot_controller.cpp:[m[K In member function ‘[01m[Kvoid CircularMover::point_cloud_callback(sensor_msgs::msg::PointCloud2_<std::allocator<void> >::SharedPtr)[m[K’:
+[01m[K/home/shaman/ros2_ws/src/ROS_N6/ex05/my_robot_controller_deep_cam/src/robot_controller.cpp:60:26:[m[K [01;31m[Kerror: [m[K‘[01m[KfromROSMsg[m[K’ is not a member of ‘[01m[Kpcl_conversions[m[K’; did you mean ‘[01m[Kpcl::fromROSMsg[m[K’?
+   60 |         pcl_conversions::[01;31m[KfromROSMsg[m[K(*msg, cloud);
+      |                          [01;31m[K^~~~~~~~~~[m[K
+In file included from [01m[K/home/shaman/ros2_ws/src/ROS_N6/ex05/my_robot_controller_deep_cam/src/robot_controller.cpp:9[m[K:
+[01m[K/opt/ros/humble/include/pcl_conversions/pcl_conversions/pcl_conversions.h:568:8:[m[K [01;36m[Knote: [m[K‘[01m[Kpcl::fromROSMsg[m[K’ declared here
+  568 |   void [01;36m[KfromROSMsg[m[K(const sensor_msgs::msg::PointCloud2 &cloud, pcl::PointCloud<T> &pcl_cloud)
+      |        [01;36m[K^~~~~~~~~~[m[K
+gmake[2]: *** [CMakeFiles/robot_controller.dir/build.make:76: CMakeFiles/robot_controller.dir/src/robot_controller.cpp.o] Ошибка 1
+gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/robot_controller.dir/all] Ошибка 2
+gmake: *** [Makefile:146: all] Ошибка 2

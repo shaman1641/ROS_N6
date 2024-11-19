@@ -1,0 +1,95 @@
+[0.015s] Invoking command in '/home/shaman/ros2_ws/src/ROS_N6/ex05/build/my_robot_controller_deep_cam': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/shaman/ros2_ws/src/ROS_N6/ex05/build/my_robot_controller_deep_cam -- -j12 -l12
+[0.032s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.121s] -- Found rclcpp: 16.0.10 (/opt/ros/humble/share/rclcpp/cmake)
+[0.139s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.140s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.144s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.149s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.157s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.176s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.177s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.246s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.275s] -- Found geometry_msgs: 4.2.4 (/opt/ros/humble/share/geometry_msgs/cmake)
+[0.282s] -- Found tf2_ros: 0.25.8 (/opt/ros/humble/share/tf2_ros/cmake)
+[0.331s] -- Found sensor_msgs: 4.2.4 (/opt/ros/humble/share/sensor_msgs/cmake)
+[0.346s] -- Found cv_bridge: 3.2.1 (/opt/ros/humble/share/cv_bridge/cmake)
+[0.349s] -- Found pcl_ros: 2.4.5 (/opt/ros/humble/share/pcl_ros/cmake)
+[0.387s] -- Checking for module 'eigen3'
+[0.395s] --   Found eigen3, version 3.4.0
+[0.415s] -- Found Eigen: /usr/include/eigen3 (Required is at least version "3.1") 
+[0.415s] -- Eigen found (include: /usr/include/eigen3, version: 3.4.0)
+[0.451s] -- Checking for module 'flann'
+[0.460s] --   Found flann, version 1.9.1
+[0.484s] -- Found FLANN: /usr/lib/x86_64-linux-gnu/libflann_cpp.so  
+[0.484s] -- FLANN found (include: /usr/include, lib: /usr/lib/x86_64-linux-gnu/libflann_cpp.so)
+[1.276s] -- Checking for module 'libusb-1.0'
+[1.285s] --   Found libusb-1.0, version 1.0.25
+[1.318s] -- Found libusb: /usr/lib/x86_64-linux-gnu/libusb-1.0.so  
+[1.319s] -- OpenNI found (version: 1.5.4.0, include: /usr/include/ni, lib: /usr/lib/libOpenNI.so;libusb::libusb)
+[1.384s] -- OpenNI2 found (version: 2.2.0.33, include: /usr/include/openni2, lib: /usr/lib/x86_64-linux-gnu/libOpenNI2.so;libusb::libusb)
+[1.487s] -- Eigen found (include: /usr/include/eigen3, version: 3.4.0)
+[1.491s] -- OpenNI found (version: 1.5.4.0, include: /usr/include/ni, lib: /usr/lib/libOpenNI.so;libusb::libusb)
+[1.495s] -- OpenNI2 found (version: 2.2.0.33, include: /usr/include/openni2, lib: /usr/lib/x86_64-linux-gnu/libOpenNI2.so;libusb::libusb)
+[1.600s] -- Found Qhull version 8.0.2
+[1.697s] -- OpenNI found (version: 1.5.4.0, include: /usr/include/ni, lib: /usr/lib/libOpenNI.so;libusb::libusb)
+[1.791s] -- Found PCL_COMMON: /usr/lib/x86_64-linux-gnu/libpcl_common.so  
+[1.792s] -- Found PCL_KDTREE: /usr/lib/x86_64-linux-gnu/libpcl_kdtree.so  
+[1.792s] -- Found PCL_OCTREE: /usr/lib/x86_64-linux-gnu/libpcl_octree.so  
+[1.793s] -- Found PCL_SEARCH: /usr/lib/x86_64-linux-gnu/libpcl_search.so  
+[1.793s] -- Found PCL_SAMPLE_CONSENSUS: /usr/lib/x86_64-linux-gnu/libpcl_sample_consensus.so  
+[1.794s] -- Found PCL_FILTERS: /usr/lib/x86_64-linux-gnu/libpcl_filters.so  
+[1.794s] -- Found PCL_2D: /usr/include/pcl-1.12  
+[1.794s] -- Found PCL_GEOMETRY: /usr/include/pcl-1.12  
+[1.795s] -- Found PCL_IO: /usr/lib/x86_64-linux-gnu/libpcl_io.so  
+[1.795s] -- Found PCL_FEATURES: /usr/lib/x86_64-linux-gnu/libpcl_features.so  
+[1.796s] -- Found PCL_ML: /usr/lib/x86_64-linux-gnu/libpcl_ml.so  
+[1.797s] -- Found PCL_SEGMENTATION: /usr/lib/x86_64-linux-gnu/libpcl_segmentation.so  
+[1.797s] -- Found PCL_VISUALIZATION: /usr/lib/x86_64-linux-gnu/libpcl_visualization.so  
+[1.798s] -- Found PCL_SURFACE: /usr/lib/x86_64-linux-gnu/libpcl_surface.so  
+[1.798s] -- Found PCL_REGISTRATION: /usr/lib/x86_64-linux-gnu/libpcl_registration.so  
+[1.799s] -- Found PCL_KEYPOINTS: /usr/lib/x86_64-linux-gnu/libpcl_keypoints.so  
+[1.800s] -- Found PCL_TRACKING: /usr/lib/x86_64-linux-gnu/libpcl_tracking.so  
+[1.800s] -- Found PCL_RECOGNITION: /usr/lib/x86_64-linux-gnu/libpcl_recognition.so  
+[1.801s] -- Found PCL_STEREO: /usr/lib/x86_64-linux-gnu/libpcl_stereo.so  
+[1.801s] -- Found PCL_APPS: /usr/lib/x86_64-linux-gnu/libpcl_apps.so  
+[1.802s] -- Found PCL_IN_HAND_SCANNER: /usr/include/pcl-1.12  
+[1.802s] -- Found PCL_MODELER: /usr/include/pcl-1.12  
+[1.802s] -- Found PCL_POINT_CLOUD_EDITOR: /usr/include/pcl-1.12  
+[1.803s] -- Found PCL_OUTOFCORE: /usr/lib/x86_64-linux-gnu/libpcl_outofcore.so  
+[1.804s] -- Found PCL_PEOPLE: /usr/lib/x86_64-linux-gnu/libpcl_people.so  
+[1.832s] -- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+[1.833s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[1.833s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[1.835s] [33mCMake Warning (dev) at CMakeLists.txt:17 (find_package):
+[1.835s]   Policy CMP0074 is not set: find_package uses <PackageName>_ROOT variables.
+[1.835s]   Run "cmake --help-policy CMP0074" for policy details.  Use the cmake_policy
+[1.835s]   command to set the policy and suppress this warning.
+[1.835s] 
+[1.835s]   CMake variable PCL_ROOT is set to:
+[1.835s] 
+[1.835s]     /usr
+[1.835s] 
+[1.836s]   For compatibility, CMake is ignoring the variable.
+[1.836s] This warning is for project developers.  Use -Wno-dev to suppress it.
+[1.836s] [0m
+[1.847s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.889s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.889s] -- Configured cppcheck include dirs: 
+[1.890s] -- Configured cppcheck exclude dirs and/or files: 
+[1.890s] -- Added test 'lint_cmake' to check CMake code style
+[1.890s] -- Added test 'uncrustify' to check C / C++ code style
+[1.890s] -- Configured uncrustify additional arguments: 
+[1.890s] -- Added test 'xmllint' to check XML markup files
+[1.891s] -- Configuring done
+[1.921s] -- Generating done
+[1.922s] -- Build files have been written to: /home/shaman/ros2_ws/src/ROS_N6/ex05/build/my_robot_controller_deep_cam
+[1.946s] [35m[1mConsolidate compiler generated dependencies of target robot_controller[0m
+[1.962s] [ 50%] [32mBuilding CXX object CMakeFiles/robot_controller.dir/src/robot_controller.cpp.o[0m
+[4.794s] [01m[K/home/shaman/ros2_ws/src/ROS_N6/ex05/my_robot_controller_deep_cam/src/robot_controller.cpp:[m[K In member function ‘[01m[Kvoid CircularMover::depth_callback(sensor_msgs::msg::PointCloud2_<std::allocator<void> >::SharedPtr)[m[K’:
+[4.794s] [01m[K/home/shaman/ros2_ws/src/ROS_N6/ex05/my_robot_controller_deep_cam/src/robot_controller.cpp:58:14:[m[K [01;31m[Kerror: [m[K‘[01m[KfromROSMsg[m[K’ is not a member of ‘[01m[Kpcl[m[K’
+[4.795s]    58 |         pcl::[01;31m[KfromROSMsg[m[K(*msg, *cloud);
+[4.795s]       |              [01;31m[K^~~~~~~~~~[m[K
+[6.209s] gmake[2]: *** [CMakeFiles/robot_controller.dir/build.make:76: CMakeFiles/robot_controller.dir/src/robot_controller.cpp.o] Ошибка 1
+[6.209s] gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/robot_controller.dir/all] Ошибка 2
+[6.209s] gmake: *** [Makefile:146: all] Ошибка 2
+[6.212s] Invoked command in '/home/shaman/ros2_ws/src/ROS_N6/ex05/build/my_robot_controller_deep_cam' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/shaman/ros2_ws/src/ROS_N6/ex05/build/my_robot_controller_deep_cam -- -j12 -l12

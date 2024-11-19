@@ -1,0 +1,9 @@
+/home/shaman/ros2_ws/src/ROS_N6/ex03/build/robot_description/CMakeFiles/uninstall.dir
+/home/shaman/ros2_ws/src/ROS_N6/ex03/build/robot_description/CMakeFiles/robot_description_uninstall.dir
+/home/shaman/ros2_ws/src/ROS_N6/ex03/build/robot_description/CMakeFiles/test.dir
+/home/shaman/ros2_ws/src/ROS_N6/ex03/build/robot_description/CMakeFiles/edit_cache.dir
+/home/shaman/ros2_ws/src/ROS_N6/ex03/build/robot_description/CMakeFiles/rebuild_cache.dir
+/home/shaman/ros2_ws/src/ROS_N6/ex03/build/robot_description/CMakeFiles/list_install_components.dir
+/home/shaman/ros2_ws/src/ROS_N6/ex03/build/robot_description/CMakeFiles/install.dir
+/home/shaman/ros2_ws/src/ROS_N6/ex03/build/robot_description/CMakeFiles/install/local.dir
+/home/shaman/ros2_ws/src/ROS_N6/ex03/build/robot_description/CMakeFiles/install/strip.dir

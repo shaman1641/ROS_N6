@@ -1,0 +1,8 @@
+[01m[K/home/shaman/ros2_ws/src/ROS_N6/ex05/my_robot_controller_deep_cam/src/robot_controller.cpp:[m[K In member function ‘[01m[Kvoid CircularMover::depth_callback(sensor_msgs::msg::Image_<std::allocator<void> >::SharedPtr)[m[K’:
+[01m[K/home/shaman/ros2_ws/src/ROS_N6/ex05/my_robot_controller_deep_cam/src/robot_controller.cpp:71:118:[m[K [01;31m[Kerror: [m[Kno match for ‘[01m[Koperator[][m[K’ (operand types are ‘[01m[Kcv::MatExpr[m[K’ and ‘[01m[Kint[m[K’)
+   71 | v::Scalar(std::numeric_limits<float>::infinity()))[01;31m[K[[m[K0];
+      |                                                   [01;31m[K^[m[K
+
+gmake[2]: *** [CMakeFiles/robot_controller.dir/build.make:76: CMakeFiles/robot_controller.dir/src/robot_controller.cpp.o] Ошибка 1
+gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/robot_controller.dir/all] Ошибка 2
+gmake: *** [Makefile:146: all] Ошибка 2

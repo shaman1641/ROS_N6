@@ -1,0 +1,19 @@
+[33mCMake Warning (dev) at CMakeLists.txt:17 (find_package):
+  Policy CMP0074 is not set: find_package uses <PackageName>_ROOT variables.
+  Run "cmake --help-policy CMP0074" for policy details.  Use the cmake_policy
+  command to set the policy and suppress this warning.
+
+  CMake variable PCL_ROOT is set to:
+
+    /usr
+
+  For compatibility, CMake is ignoring the variable.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+[0m
+[01m[K/home/shaman/ros2_ws/src/ROS_N6/ex05/my_robot_controller_deep_cam/src/robot_controller.cpp:[m[K In member function ‘[01m[Kvoid CircularMover::depth_callback(sensor_msgs::msg::PointCloud2_<std::allocator<void> >::SharedPtr)[m[K’:
+[01m[K/home/shaman/ros2_ws/src/ROS_N6/ex05/my_robot_controller_deep_cam/src/robot_controller.cpp:58:14:[m[K [01;31m[Kerror: [m[K‘[01m[KfromROSMsg[m[K’ is not a member of ‘[01m[Kpcl[m[K’
+   58 |         pcl::[01;31m[KfromROSMsg[m[K(*msg, *cloud);
+      |              [01;31m[K^~~~~~~~~~[m[K
+gmake[2]: *** [CMakeFiles/robot_controller.dir/build.make:76: CMakeFiles/robot_controller.dir/src/robot_controller.cpp.o] Ошибка 1
+gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/robot_controller.dir/all] Ошибка 2
+gmake: *** [Makefile:146: all] Ошибка 2

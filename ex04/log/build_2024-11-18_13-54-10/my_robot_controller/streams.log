@@ -1,0 +1,5 @@
+[0.016s] Invoking command in '/home/shaman/ros2_ws/src/ROS_N6/ex04/build/my_robot_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/shaman/ros2_ws/src/ROS_N6/ex04/build/my_robot_controller -- -j12 -l12
+[0.028s] [0mCMake Error: The source directory "/home/shaman/ros2_ws/src/ROS_N6/ex04/my_robot_controller" does not exist.
+[0.028s] Specify --help for usage, or press the help button on the CMake GUI.[0m
+[0.029s] gmake: *** [Makefile:267: cmake_check_build_system] Ошибка 1
+[0.031s] Invoked command in '/home/shaman/ros2_ws/src/ROS_N6/ex04/build/my_robot_controller' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/shaman/ros2_ws/src/ROS_N6/ex04/build/my_robot_controller -- -j12 -l12

@@ -1,0 +1,10 @@
+/home/shaman/ros2_ws/src/ROS_N6/ex04/build/my_robot_controller_lidar/CMakeFiles/uninstall.dir
+/home/shaman/ros2_ws/src/ROS_N6/ex04/build/my_robot_controller_lidar/CMakeFiles/my_robot_controller_lidar_uninstall.dir
+/home/shaman/ros2_ws/src/ROS_N6/ex04/build/my_robot_controller_lidar/CMakeFiles/robot_controller.dir
+/home/shaman/ros2_ws/src/ROS_N6/ex04/build/my_robot_controller_lidar/CMakeFiles/test.dir
+/home/shaman/ros2_ws/src/ROS_N6/ex04/build/my_robot_controller_lidar/CMakeFiles/edit_cache.dir
+/home/shaman/ros2_ws/src/ROS_N6/ex04/build/my_robot_controller_lidar/CMakeFiles/rebuild_cache.dir
+/home/shaman/ros2_ws/src/ROS_N6/ex04/build/my_robot_controller_lidar/CMakeFiles/list_install_components.dir
+/home/shaman/ros2_ws/src/ROS_N6/ex04/build/my_robot_controller_lidar/CMakeFiles/install.dir
+/home/shaman/ros2_ws/src/ROS_N6/ex04/build/my_robot_controller_lidar/CMakeFiles/install/local.dir
+/home/shaman/ros2_ws/src/ROS_N6/ex04/build/my_robot_controller_lidar/CMakeFiles/install/strip.dir

@@ -1,0 +1,16 @@
+/home/shaman/ros2_ws/src/ROS_N6/ex04/install/my_robot_controller_lidar/lib/my_robot_controller_lidar/robot_controller
+/home/shaman/ros2_ws/src/ROS_N6/ex04/install/my_robot_controller_lidar/share/ament_index/resource_index/package_run_dependencies/my_robot_controller_lidar
+/home/shaman/ros2_ws/src/ROS_N6/ex04/install/my_robot_controller_lidar/share/ament_index/resource_index/parent_prefix_path/my_robot_controller_lidar
+/home/shaman/ros2_ws/src/ROS_N6/ex04/install/my_robot_controller_lidar/share/my_robot_controller_lidar/environment/ament_prefix_path.sh
+/home/shaman/ros2_ws/src/ROS_N6/ex04/install/my_robot_controller_lidar/share/my_robot_controller_lidar/environment/ament_prefix_path.dsv
+/home/shaman/ros2_ws/src/ROS_N6/ex04/install/my_robot_controller_lidar/share/my_robot_controller_lidar/environment/path.sh
+/home/shaman/ros2_ws/src/ROS_N6/ex04/install/my_robot_controller_lidar/share/my_robot_controller_lidar/environment/path.dsv
+/home/shaman/ros2_ws/src/ROS_N6/ex04/install/my_robot_controller_lidar/share/my_robot_controller_lidar/local_setup.bash
+/home/shaman/ros2_ws/src/ROS_N6/ex04/install/my_robot_controller_lidar/share/my_robot_controller_lidar/local_setup.sh
+/home/shaman/ros2_ws/src/ROS_N6/ex04/install/my_robot_controller_lidar/share/my_robot_controller_lidar/local_setup.zsh
+/home/shaman/ros2_ws/src/ROS_N6/ex04/install/my_robot_controller_lidar/share/my_robot_controller_lidar/local_setup.dsv
+/home/shaman/ros2_ws/src/ROS_N6/ex04/install/my_robot_controller_lidar/share/my_robot_controller_lidar/package.dsv
+/home/shaman/ros2_ws/src/ROS_N6/ex04/install/my_robot_controller_lidar/share/ament_index/resource_index/packages/my_robot_controller_lidar
+/home/shaman/ros2_ws/src/ROS_N6/ex04/install/my_robot_controller_lidar/share/my_robot_controller_lidar/cmake/my_robot_controller_lidarConfig.cmake
+/home/shaman/ros2_ws/src/ROS_N6/ex04/install/my_robot_controller_lidar/share/my_robot_controller_lidar/cmake/my_robot_controller_lidarConfig-version.cmake
+/home/shaman/ros2_ws/src/ROS_N6/ex04/install/my_robot_controller_lidar/share/my_robot_controller_lidar/package.xml

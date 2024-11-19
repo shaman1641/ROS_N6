@@ -1,0 +1,15 @@
+[0.016s] Invoking command in '/home/shaman/ros2_ws/src/ROS_N6/ex05/build/my_robot_controller_deep_cam': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/shaman/ros2_ws/src/ROS_N6/ex05/build/my_robot_controller_deep_cam -- -j12 -l12
+[0.048s] [35m[1mConsolidate compiler generated dependencies of target robot_controller[0m
+[0.063s] [ 50%] [32mBuilding CXX object CMakeFiles/robot_controller.dir/src/robot_controller.cpp.o[0m
+[3.170s] [01m[K/home/shaman/ros2_ws/src/ROS_N6/ex05/my_robot_controller_deep_cam/src/robot_controller.cpp:[m[K In member function ‘[01m[Kvoid CircularMover::point_cloud_callback(sensor_msgs::msg::PointCloud2_<std::allocator<void> >::SharedPtr)[m[K’:
+[3.170s] [01m[K/home/shaman/ros2_ws/src/ROS_N6/ex05/my_robot_controller_deep_cam/src/robot_controller.cpp:60:26:[m[K [01;31m[Kerror: [m[K‘[01m[KfromROSMsg[m[K’ is not a member of ‘[01m[Kpcl_conversions[m[K’; did you mean ‘[01m[Kpcl::fromROSMsg[m[K’?
+[3.170s]    60 |         pcl_conversions::[01;31m[KfromROSMsg[m[K(*msg, cloud);
+[3.170s]       |                          [01;31m[K^~~~~~~~~~[m[K
+[3.170s] In file included from [01m[K/home/shaman/ros2_ws/src/ROS_N6/ex05/my_robot_controller_deep_cam/src/robot_controller.cpp:9[m[K:
+[3.170s] [01m[K/opt/ros/humble/include/pcl_conversions/pcl_conversions/pcl_conversions.h:568:8:[m[K [01;36m[Knote: [m[K‘[01m[Kpcl::fromROSMsg[m[K’ declared here
+[3.170s]   568 |   void [01;36m[KfromROSMsg[m[K(const sensor_msgs::msg::PointCloud2 &cloud, pcl::PointCloud<T> &pcl_cloud)
+[3.170s]       |        [01;36m[K^~~~~~~~~~[m[K
+[5.062s] gmake[2]: *** [CMakeFiles/robot_controller.dir/build.make:76: CMakeFiles/robot_controller.dir/src/robot_controller.cpp.o] Ошибка 1
+[5.062s] gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/robot_controller.dir/all] Ошибка 2
+[5.062s] gmake: *** [Makefile:146: all] Ошибка 2
+[5.065s] Invoked command in '/home/shaman/ros2_ws/src/ROS_N6/ex05/build/my_robot_controller_deep_cam' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/shaman/ros2_ws/src/ROS_N6/ex05/build/my_robot_controller_deep_cam -- -j12 -l12

@@ -1,0 +1,26 @@
+[0.016s] Invoking command in '/home/shaman/ros2_ws/src/ROS_N6/ex05/build/my_robot_controller_deep_cam': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/shaman/ros2_ws/src/ROS_N6/ex05/build/my_robot_controller_deep_cam -- -j12 -l12
+[0.050s] [35m[1mConsolidate compiler generated dependencies of target robot_controller[0m
+[0.063s] [ 50%] [32mBuilding CXX object CMakeFiles/robot_controller.dir/src/robot_controller.cpp.o[0m
+[6.685s] [100%] [32m[1mLinking CXX executable robot_controller[0m
+[7.171s] [100%] Built target robot_controller
+[7.182s] Invoked command in '/home/shaman/ros2_ws/src/ROS_N6/ex05/build/my_robot_controller_deep_cam' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/shaman/ros2_ws/src/ROS_N6/ex05/build/my_robot_controller_deep_cam -- -j12 -l12
+[7.201s] Invoking command in '/home/shaman/ros2_ws/src/ROS_N6/ex05/build/my_robot_controller_deep_cam': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/shaman/ros2_ws/src/ROS_N6/ex05/build/my_robot_controller_deep_cam
+[7.206s] -- Install configuration: ""
+[7.207s] -- Installing: /home/shaman/ros2_ws/src/ROS_N6/ex05/install/my_robot_controller_deep_cam/lib/my_robot_controller_deep_cam/robot_controller
+[7.209s] -- Set runtime path of "/home/shaman/ros2_ws/src/ROS_N6/ex05/install/my_robot_controller_deep_cam/lib/my_robot_controller_deep_cam/robot_controller" to ""
+[7.209s] -- Up-to-date: /home/shaman/ros2_ws/src/ROS_N6/ex05/install/my_robot_controller_deep_cam/share/ament_index/resource_index/package_run_dependencies/my_robot_controller_deep_cam
+[7.209s] -- Up-to-date: /home/shaman/ros2_ws/src/ROS_N6/ex05/install/my_robot_controller_deep_cam/share/ament_index/resource_index/parent_prefix_path/my_robot_controller_deep_cam
+[7.209s] -- Up-to-date: /home/shaman/ros2_ws/src/ROS_N6/ex05/install/my_robot_controller_deep_cam/share/my_robot_controller_deep_cam/environment/ament_prefix_path.sh
+[7.209s] -- Up-to-date: /home/shaman/ros2_ws/src/ROS_N6/ex05/install/my_robot_controller_deep_cam/share/my_robot_controller_deep_cam/environment/ament_prefix_path.dsv
+[7.209s] -- Up-to-date: /home/shaman/ros2_ws/src/ROS_N6/ex05/install/my_robot_controller_deep_cam/share/my_robot_controller_deep_cam/environment/path.sh
+[7.209s] -- Up-to-date: /home/shaman/ros2_ws/src/ROS_N6/ex05/install/my_robot_controller_deep_cam/share/my_robot_controller_deep_cam/environment/path.dsv
+[7.210s] -- Up-to-date: /home/shaman/ros2_ws/src/ROS_N6/ex05/install/my_robot_controller_deep_cam/share/my_robot_controller_deep_cam/local_setup.bash
+[7.210s] -- Up-to-date: /home/shaman/ros2_ws/src/ROS_N6/ex05/install/my_robot_controller_deep_cam/share/my_robot_controller_deep_cam/local_setup.sh
+[7.210s] -- Up-to-date: /home/shaman/ros2_ws/src/ROS_N6/ex05/install/my_robot_controller_deep_cam/share/my_robot_controller_deep_cam/local_setup.zsh
+[7.210s] -- Up-to-date: /home/shaman/ros2_ws/src/ROS_N6/ex05/install/my_robot_controller_deep_cam/share/my_robot_controller_deep_cam/local_setup.dsv
+[7.210s] -- Installing: /home/shaman/ros2_ws/src/ROS_N6/ex05/install/my_robot_controller_deep_cam/share/my_robot_controller_deep_cam/package.dsv
+[7.210s] -- Up-to-date: /home/shaman/ros2_ws/src/ROS_N6/ex05/install/my_robot_controller_deep_cam/share/ament_index/resource_index/packages/my_robot_controller_deep_cam
+[7.210s] -- Up-to-date: /home/shaman/ros2_ws/src/ROS_N6/ex05/install/my_robot_controller_deep_cam/share/my_robot_controller_deep_cam/cmake/my_robot_controller_deep_camConfig.cmake
+[7.210s] -- Up-to-date: /home/shaman/ros2_ws/src/ROS_N6/ex05/install/my_robot_controller_deep_cam/share/my_robot_controller_deep_cam/cmake/my_robot_controller_deep_camConfig-version.cmake
+[7.210s] -- Up-to-date: /home/shaman/ros2_ws/src/ROS_N6/ex05/install/my_robot_controller_deep_cam/share/my_robot_controller_deep_cam/package.xml
+[7.211s] Invoked command in '/home/shaman/ros2_ws/src/ROS_N6/ex05/build/my_robot_controller_deep_cam' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/shaman/ros2_ws/src/ROS_N6/ex05/build/my_robot_controller_deep_cam
